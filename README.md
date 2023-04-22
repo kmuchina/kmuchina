@@ -1,16 +1,24 @@
-### Hi there 👋
+## KENNEDY MUCHINA KINUTHIA
+I am a Computer Science student at Moi University, Kenya.
 
-<!--
-**kmuchina/kmuchina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Know Me Better:
+  - I'm currently starting out as a cs student(again!).
+  - I'm using Ubuntu 22.04.1 (linux everywhere).
+  - I'm currently learning... well a lot.
+  - Pronouns: He, Him
+  - Proud Kenyan `#hakunamatata`
 
-Here are some ideas to get you started:
+### Skills:
+  - Shell Scripting
+  - Networking on UNIX system
+  - Fullstack Web Developer using MERN 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fav Programming Languages
+  - C++
+  - Javascript
+  - Python
+  
+### Say Hi!
+  - Telphone Number : +254 703 537 578
+  - Personal email  : muchina537@gmail.com
+  - School email    : bio186121@gmail.com
