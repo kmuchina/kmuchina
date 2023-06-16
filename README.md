@@ -16,7 +16,7 @@ I'm a B.SC in Computer Science student at Moi University, Kenya.
 ### Fav Programming Languages
   - C++
   - Javascript
-  - Python
+  - Kotlin
 
 ### Speaks 
 - Kiswahili
