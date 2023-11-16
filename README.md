@@ -2,8 +2,8 @@
 I'm a B.SC in Computer Science student at Moi University, und ich lerne Deutch.
 
 ## Know Me Better:
-  - I'm starting out as a cs student(again!).
-  - I'm using Ubuntu 23.04.1 (linux everywhere).
+  - I'm starting out as a CS student(again!).
+  - I'm using Ubuntu 23.10 (Linux everywhere).
   - I'm currently learning... well a lot.
   - Pronouns: He, Him
   - Proud Kenyan `#hakunamatata`
@@ -12,6 +12,7 @@ I'm a B.SC in Computer Science student at Moi University, und ich lerne Deutch.
   - Shell Scripting
   - Networking on UNIX system
   - Fullstack MERN developer
+  - Associate Android Developer
 
 ## Fav Programming Languages
   - C++
@@ -24,6 +25,6 @@ I'm a B.SC in Computer Science student at Moi University, und ich lerne Deutch.
 - German (A1)
   
 ## Say Hi!
-  - Telphone Number : **+254 703 537 578**
-  - Personal email  : **muchina537@gmail.com**
-  - School email    : **bio186121@gmail.com**
+  - Personal email     : **muchina537@gmail.com**
+  - Professional email : **kmuchina@ieee.org**
+  - School email       : **bio186121@gmail.com**
