@@ -27,4 +27,3 @@ I'm a B.SC in Computer Science student at Moi University, und ich lerne Deutch.
 ## Say Hi!
   - Personal email     : **muchina537@gmail.com**
   - Professional email : **kmuchina@ieee.org**
-  - School email       : **bio186121@gmail.com**
